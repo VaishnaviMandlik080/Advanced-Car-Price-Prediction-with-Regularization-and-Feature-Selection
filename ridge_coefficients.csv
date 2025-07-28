@@ -1,0 +1,211 @@
+Feature,Coefficient
+symboling,61.842890243416576
+wheelbase,519.951893896112
+carlength,31.676418057858683
+carwidth,998.1437869911608
+carheight,47.184316925554555
+curbweight,2728.5269509821724
+enginesize,1980.4200994444943
+boreratio,-243.2044731050357
+stroke,-495.9500036875321
+compressionratio,-160.74078519932007
+horsepower,247.64935698211124
+peakrpm,1151.6033810698002
+citympg,-9.202641302801425
+highwaympg,104.6885278550838
+CarName_alfa-romero Quadrifoglio,151.71775645116233
+CarName_alfa-romero giulia,156.01438225302743
+CarName_alfa-romero stelvio,364.3687570993707
+CarName_audi 100 ls,74.78438013864958
+CarName_audi 100ls,-103.46225220546661
+CarName_audi 4000,87.99941085928756
+CarName_audi 5000,44.98640631197408
+CarName_audi 5000s (diesel),-1.2309701109430757e-25
+CarName_audi fox,34.01012356257014
+CarName_bmw 320i,21.647852155738313
+CarName_bmw x1,429.36683496449456
+CarName_bmw x3,722.1419389040783
+CarName_bmw x4,-1.2309701109430757e-25
+CarName_bmw x5,-1.2309701109430757e-25
+CarName_bmw z4,437.01242197811933
+CarName_buick century,-1.2309701109430757e-25
+CarName_buick century luxus (sw),-1.2309701109430757e-25
+CarName_buick century special,-1.2309701109430757e-25
+CarName_buick electra 225 custom,-1.2309701109430757e-25
+CarName_buick opel isuzu deluxe,165.4229978177088
+CarName_buick regal sport coupe (turbo),711.0659773156879
+CarName_buick skyhawk,226.42752147857564
+CarName_buick skylark,433.0725864743794
+CarName_chevrolet impala,-1.2309701109430757e-25
+CarName_chevrolet monte carlo,-36.47570141153396
+CarName_chevrolet vega 2300,-65.36846082315785
+CarName_dodge challenger se,-13.224982333683545
+CarName_dodge colt (sw),-7.1857461510457945
+CarName_dodge colt hardtop,-1.2309701109430757e-25
+CarName_dodge coronet custom,-105.88886125620505
+CarName_dodge coronet custom (sw),-47.70546997768467
+CarName_dodge d200,-116.1920074592704
+CarName_dodge dart custom,-31.211643143341707
+CarName_dodge monaco (sw),-86.16660731030781
+CarName_dodge rampage,-71.59552228804712
+CarName_honda accord,-76.73843340993284
+CarName_honda accord cvcc,-70.25462058819859
+CarName_honda accord lx,-99.42627636392344
+CarName_honda civic,10.420955248717867
+CarName_honda civic (auto),-32.056856494886134
+CarName_honda civic 1300,-72.10223483013617
+CarName_honda civic 1500 gl,48.2157127290816
+CarName_honda civic cvcc,2.527918268104308
+CarName_honda prelude,-135.8761103059177
+CarName_isuzu D-Max ,116.67388746964616
+CarName_isuzu D-Max V-Cross,-1.2309701109430757e-25
+CarName_isuzu MU-X,-89.88384487999316
+CarName_jaguar xf,443.6156126037859
+CarName_jaguar xj,214.80714771429032
+CarName_jaguar xk,-28.303032267383845
+CarName_maxda glc deluxe,-71.76501935273224
+CarName_maxda rx3,-123.22635707960106
+CarName_mazda 626,-223.36053242898393
+CarName_mazda glc,378.70641929702754
+CarName_mazda glc 4,279.4204702605061
+CarName_mazda glc custom,-70.09480510187565
+CarName_mazda glc custom l,-1.2309701109430757e-25
+CarName_mazda glc deluxe,-104.91546507794732
+CarName_mazda rx-4,-160.3672799536891
+CarName_mazda rx-7 gs,562.5264125837762
+CarName_mazda rx2 coupe,-25.051046569317112
+CarName_mercury cougar,-39.824539574044266
+CarName_mitsubishi g4,-20.838874087589666
+CarName_mitsubishi lancer,-62.30813944228852
+CarName_mitsubishi mirage,-110.89011559929341
+CarName_mitsubishi mirage g4,-95.61773108112686
+CarName_mitsubishi montero,-218.6800176991592
+CarName_mitsubishi outlander,-179.29016485774355
+CarName_mitsubishi pajero,-1.2309701109430757e-25
+CarName_nissan clipper,81.20622015268677
+CarName_nissan dayz,-1.4756747637426335e-25
+CarName_nissan fuga,-169.75791575913286
+CarName_nissan gt-r,79.9968508420866
+CarName_nissan juke,-1.2309701109430757e-25
+CarName_nissan kicks,67.41625260331043
+CarName_nissan latio,75.43094919179521
+CarName_nissan leaf,93.21277907557828
+CarName_nissan note,-1.4756747637426335e-25
+CarName_nissan nv200,-1.4756747637426335e-25
+CarName_nissan otti,-300.69281320762667
+CarName_nissan rogue,-4.148173398370098
+CarName_nissan teana,41.30300455647793
+CarName_nissan titan,193.61405401994043
+CarName_peugeot 304,-233.28483864730282
+CarName_peugeot 504,-98.18953976267706
+CarName_peugeot 504 (sw),-138.66848997751916
+CarName_peugeot 505s turbo diesel,48.841042138222036
+CarName_peugeot 604sl,-51.02979102846496
+CarName_plymouth cricket,-22.56249131197571
+CarName_plymouth duster,-33.58929778169936
+CarName_plymouth fury gran sedan,-103.79572127427507
+CarName_plymouth fury iii,-114.37138784551965
+CarName_plymouth satellite custom (sw),-67.35795041891426
+CarName_plymouth valiant,-25.125690239923205
+CarName_porcshce panamera,168.34068324223068
+CarName_porsche boxter,596.7578223395465
+CarName_porsche cayenne,381.5447123359878
+CarName_porsche macan,111.44800388676043
+CarName_renault 12tl,-36.18376255067348
+CarName_renault 5 gtl,-68.5953449774775
+CarName_saab 99e,75.16396728451267
+CarName_saab 99gle,72.51561395391224
+CarName_saab 99le,-207.89358142239945
+CarName_subaru,-248.25489682167256
+CarName_subaru baja,-1.4756747637426335e-25
+CarName_subaru brz,-80.2761573465596
+CarName_subaru dl,-77.41342480563794
+CarName_subaru r1,-145.31881051718975
+CarName_subaru r2,-1.4756747637426335e-25
+CarName_subaru trezia,-1.4756747637426335e-25
+CarName_subaru tribeca,-1.4756747637426335e-25
+CarName_toyota carina,-150.0463688527798
+CarName_toyota celica gt,-125.55613022077539
+CarName_toyota celica gt liftback,-168.49119698501104
+CarName_toyota corolla,12.78718078963994
+CarName_toyota corolla 1200,-59.14185423175535
+CarName_toyota corolla 1600 (sw),-1.4756747637426335e-25
+CarName_toyota corolla liftback,77.7487506880158
+CarName_toyota corolla tercel,-155.90908256393053
+CarName_toyota corona,-50.07343801344064
+CarName_toyota corona hardtop,51.834059870581854
+CarName_toyota corona liftback,-326.3315310436065
+CarName_toyota corona mark ii,-60.97809823223831
+CarName_toyota cressida,285.59448805926786
+CarName_toyota mark ii,20.96871601228631
+CarName_toyota starlet,-123.31908316816808
+CarName_toyota tercel,-186.2859507867478
+CarName_toyouta tercel,96.99985458580485
+CarName_vokswagen rabbit,-1.4756747637426335e-25
+CarName_volkswagen 1131 deluxe sedan,-134.51175310984652
+CarName_volkswagen 411 (sw),-152.29964748247883
+CarName_volkswagen dasher,-28.748398883748543
+CarName_volkswagen model 111,-98.32406097947005
+CarName_volkswagen rabbit,-1.4756747637426335e-25
+CarName_volkswagen rabbit custom,82.71947223631817
+CarName_volkswagen super beetle,-70.33774617231397
+CarName_volkswagen type 3,-150.15384974798636
+CarName_volvo 144ea,-137.62407915936552
+CarName_volvo 145e (sw),-157.47600293986295
+CarName_volvo 244dl,-111.20107326828344
+CarName_volvo 245,66.23621964084406
+CarName_volvo 246,240.13520757556458
+CarName_volvo 264gl,105.4942055490297
+CarName_volvo diesel,145.446504201066
+CarName_vw dasher,123.98335736752205
+CarName_vw rabbit,36.98505463391322
+fueltype_gas,-251.82439973353104
+aspiration_turbo,574.5929008066045
+doornumber_two,-213.31555714172555
+carbody_hardtop,369.8778135518498
+carbody_hatchback,-13.654916588501138
+carbody_sedan,48.1680325836418
+carbody_wagon,-689.8273631111053
+drivewheel_fwd,-237.50030457925277
+drivewheel_rwd,-551.465605646302
+enginelocation_rear,827.5853832753172
+enginetype_dohcv,-123.01598250020486
+enginetype_l,-187.76291177548245
+enginetype_ohc,25.457119295635152
+enginetype_ohcf,186.44309174807955
+enginetype_ohcv,339.0052394406081
+enginetype_rotor,-18.30940895810297
+cylindernumber_five,76.51231041683484
+cylindernumber_four,112.22233153153782
+cylindernumber_six,-442.36467099548565
+cylindernumber_three,-1.2309701109430757e-25
+cylindernumber_twelve,-28.303032267383845
+cylindernumber_two,-18.30940895810297
+fuelsystem_2bbl,380.0778465002317
+fuelsystem_4bbl,-183.2096358028547
+fuelsystem_idi,251.82439973353019
+fuelsystem_mfi,-47.70546997768467
+fuelsystem_mpfi,404.878944964509
+fuelsystem_spdi,-94.04838756571972
+fuelsystem_spfi,-106.66742098583123
+CarBrand_audi,36.76183425040712
+CarBrand_bmw,689.221692002963
+CarBrand_buick,552.6181010081791
+CarBrand_chevrolet,-59.09012540546007
+CarBrand_dodge,-162.95067896811818
+CarBrand_honda,-128.14306260127944
+CarBrand_isuzu,37.63426553607598
+CarBrand_jaguar,365.5963477333858
+CarBrand_mazda,140.95209639480828
+CarBrand_mercury,-39.824539574044266
+CarBrand_mitsubishi,-257.7574765641704
+CarBrand_nissan,-404.92080552002625
+CarBrand_peugeot,-195.60586910561562
+CarBrand_plymouth,-158.74598516681215
+CarBrand_porsche,639.0172977922118
+CarBrand_renault,-74.27228100082736
+CarBrand_saab,-35.11222355568564
+CarBrand_subaru,-216.5074863794376
+CarBrand_toyota,-180.62884833225178
+CarBrand_volkswagen,-119.45577104326739
+CarBrand_volvo,8.489159618276835
